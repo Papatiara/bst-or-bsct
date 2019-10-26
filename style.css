@@ -1,0 +1,44 @@
+body {
+  background-color: lightblue;
+}
+
+.root {
+  position:relative;
+  height: 50px;
+  width: 50px;
+  border: 3px solid red;
+  margin: auto;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 40px;
+  top: 10px;
+  color: green;
+}
+.edge-right {
+  position:absolute; 
+  float:right;
+  font-size: 40px;
+  top: 150%;
+  margin: -80%;
+  clear: left;
+  color: white;
+  display:block
+}
+.edge-left {
+ position:absolute; 
+ float:left;
+ font-size: 40px;
+ top: 0%;
+ margin-left: 10%;
+ margin: 80%;
+ color: white;
+ display:block
+}
+
+.warning {
+  color:red;
+}
+.war {
+  display:none
+}
+
