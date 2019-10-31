@@ -2,7 +2,7 @@ body {
   background-color: lightblue;
 }
 
-.root {
+nodeStyle. {
   position:relative;
   height: 50px;
   width: 50px;
@@ -38,7 +38,5 @@ body {
 .warning {
   color:red;
 }
-.war {
-  display:none
-}
+
 
